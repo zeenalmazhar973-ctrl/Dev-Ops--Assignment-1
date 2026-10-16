@@ -1,10 +1,22 @@
-My name is Zeenal Mazhar i am a student and i am learning a new skills in technology. i am interested in web development and devops.I wnat  to improve my computer skills and learn how to use GITHUB for managing projects.
-the purpose of this repository is to complete my DevOps Assignment 1 and practice GITHUB basics.
-Tasks Completed:
-Create GITHUB Account 
-Create My First Repository
-Added Information To The README file
-I Learn That GITHUB Is Used To Store And Share Project Files Online.
-Tools Used:
-GITHUB
-Web Browser
+# DevOps Assignment 1: GitHub Fundamentals
+
+## Student Information
+- Name: ZeenalMazhar
+- Course: DevOps- Assignment: 1
+ — GitHub Free Account Setup
+
+  ## Purpose
+  This repository was created to practise GitHub account setup, repository management, README documentation, commits, and branches.
+  
+  -  ## Tasks Completed
+ - Created and verified a GitHub account.
+ - Created a repository named `devops-assignment-1`.
+ - Added a README and a sample file.
+ - Recorded changes using commits.
+ - Created a practice branch.
+   
+ ## What I Learned
+ I Learned that GITHUB is used to store and share project files.
+  ## Tools Used
+ - GitHub website
+- Web browser
