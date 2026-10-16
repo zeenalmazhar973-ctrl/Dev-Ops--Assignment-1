@@ -20,3 +20,4 @@
   ## Tools Used
  - GitHub website
 - Web browser
+I created this branch to practice working with branches in GITHUB . Branches allow me to make and save changes separately from the main branch
